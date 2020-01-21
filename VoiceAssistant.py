@@ -4,7 +4,6 @@ import playsound
 import speech_recognition as sr
 import random
 from gtts import *
-import Admin
 import sys
 import subprocess
 from datetime import datetime

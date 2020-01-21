@@ -3,7 +3,6 @@ import time
 import playsound
 import speech_recognition as sr
 from gtts import *
-import Admin
 
 filename = 'voice.mp3'
 def say(text):
